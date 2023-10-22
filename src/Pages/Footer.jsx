@@ -10,7 +10,7 @@ const Footer = () => {
 							<img
 								src="/LogoPPLG2.png"
 								alt=""
-								className="h-[4.5rem] w-[4.5rem] right-2 relative rounded-full brightness-200"
+								className="h-[10rem] w-[10rem] right-2 relative rounded-full brightness-200"
 							/>
 							<span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"></span>
 						</a>
