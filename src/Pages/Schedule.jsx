@@ -31,19 +31,19 @@ const Schedule = () => {
   // Menentukan kelompok piket berdasarkan minggu saat ini
   if (currentWeek === 1 || currentWeek === 3) {
     piketGroup = [
-      ["Aisyah", "Alfian", "Amelia", "Anggun", "Anif", "Fadly"],
-      ["Faiq", "Fajar", "Firos", "Galang", "Herdhi", "Yudha"],
-      ["Mirza", "Hisyam", "Farrel", "Nabil", "Naura", "Nurdin"],
-      ["Nurrohman", "Octa", "Raya", "Rifal", "Rizky", "Rofly"],
-      ["Shelva", "Sidiq", "Vavian", "Verdian", "Yusuf"],
+      ["Aisyah Putri Soliqah", "Alfian Ahmad Fauzi", "Amelia Neno Kurniaty", "Anggun Pertiwi", "Anif Nur Wahid", "Fadly Rizki Maulana"],
+      ["Faiq Shaka Bahydzaky", "Fajar Eka Mustofa", "Firos Ghozi Prabowo", "Galang Ardiansyah", "Herdhiansyah Ichsan Nurhafizh", "Ilham Hendra Yudha"],
+      ["Mirza Maulana Fauzian Risky", "Muhammad Hisyam Abrar", "Muhammad Farrel Febrian Akbar", "Nabil Ramadhan", "Naura Aqila Nuruddia", "Nurdin Mahfud"],
+      ["Nurrohman Marduki", "Octavyan Putra Ramadhan", "Raya Bachril Mustofa", "Rifal Anandika Ananta", "Rizky Eka Pratama", "Rofly Aulia Akbar"],
+      ["Shelva Aurora Maharani", "Sidiq Kurniawan", "Vavian Ega Ramadhan", "Verdian Bintang", "Yusuf Ardiansyah"],
     ];
   } else if (currentWeek === 2 || currentWeek === 4) {
     piketGroup = [
-      ["Aisyah", "Alfian", "Amelia", "Anggun", "Anif", "Fadly"],
-      ["Faiq", "Fajar", "Firos", "Galang", "Herdhi", "Yudha"],
-      ["Mirza", "Hisyam", "Farrel", "Nabil", "Naura", "Nurdin"],
-      ["Nurrohman", "Octa", "Raya", "Rifal", "Rizky", "Rofly"],
-      ["Shelva", "Sidiq", "Vavian", "Verdian", "Yusuf"],
+      ["Aisyah Putri Soliqah", "Alfian Ahmad Fauzi", "Amelia Neno Kurniaty", "Anggun Pertiwi", "Anif Nur Wahid", "Fadly Rizki Maulana"],
+      ["Faiq Shaka Bahydzaky", "Fajar Eka Mustofa", "Firos Ghozi Prabowo", "Galang Ardiansyah", "Herdhiansyah Ichsan Nurhafizh", "Ilham Hendra Yudha"],
+      ["Mirza Maulana Fauzian Risky", "Muhammad Hisyam Abrar", "Muhammad Farrel Febrian Akbar", "Nabil Ramadhan", "Naura Aqila Nuruddia", "Nurdin Mahfud"],
+      ["Nurrohman Marduki", "Octavyan Putra Ramadhan", "Raya Bachril Mustofa", "Rifal Anandika Ananta", "Rizky Eka Pratama", "Rofly Aulia Akbar"],
+      ["Shelva Aurora Maharani", "Sidiq Kurniawan", "Vavian Ega Ramadhan", "Verdian Bintang", "Yusuf Ardiansyah"],
     ];
   }
 
