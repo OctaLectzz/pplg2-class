@@ -22,4 +22,4 @@ node_modules
 *.sw?
 
 # Database
-/src/firebase.js
+/src/firebase example.js
